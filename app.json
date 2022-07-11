@@ -7,9 +7,7 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/CrazyBotsz",
-    "repository": "hhttps://github.com/samurai-maker/wwwautofilter",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "repository": "https://github.com/samurai-maker/soodafiltarr",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
